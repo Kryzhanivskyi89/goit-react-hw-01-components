@@ -1,0 +1,38 @@
+
+.friend__list {
+display: block;
+}
+.item {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100%;
+margin-bottom: 20px;
+padding: 15px;
+border: 0 transparent;
+border-radius: 10px;
+box-shadow: 2px, 5px, 10px, 5px cornflowerblue;
+background-color: darkkhaki;
+}
+
+.status {
+width: 25px;
+height: 25px;
+margin-right: 20px;
+border: 1px transparent;
+border-radius: 25px;
+background-color: greenyellow;
+}
+
+.offline {
+    background-color: brown;
+}
+
+.avatar {
+margin-right: 20px;
+}
+
+.name {
+font-size: 18px;
+font-weight: 400;
+}

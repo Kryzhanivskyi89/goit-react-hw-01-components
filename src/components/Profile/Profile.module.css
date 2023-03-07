@@ -1,0 +1,45 @@
+.profile {
+    
+}
+
+.description {
+   
+}
+
+.avatar {
+    display: flex;
+        justify-content: center;
+        padding-left: 30%;
+
+}
+
+.name {
+display: flex;
+justify-content: center;
+}
+
+.tag {
+display: flex;
+    justify-content: center;
+}
+
+.location {
+display: flex;
+    justify-content: center;
+}
+
+.stats {
+list-style: none;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.label {
+padding-left: 20px;
+}
+
+.quantity {
+
+}
+
