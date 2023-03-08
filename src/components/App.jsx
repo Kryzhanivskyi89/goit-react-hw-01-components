@@ -28,12 +28,7 @@ export const App = () => {
           
     <FriendsList friends={friends}/> 
      
-    <TransactionHistory items={transactions}
-      id = { transactions.id } 
-      type={ transactions.avatar }
-      amount = { transactions.avatar }
-      currency={transactions.avatar}
-    />
+    <TransactionHistory items={transactions}/>
     </div>    
   );
 };
